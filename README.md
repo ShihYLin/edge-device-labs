@@ -37,6 +37,7 @@ Implemented object detection using the pre-trained VGG16 deep learning model.
 Processed and visualized object detection results on edge-collected imagery.
 
 **Object Detection**
+
 ![object-detection](lab6-detectiontest.png)
 
 ![object-detection](lab6-detectiontest-2.png)
