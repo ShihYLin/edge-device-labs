@@ -12,6 +12,12 @@ Collected temperature and acceleration data using edge device sensors.
 
 Processed and visualized time-series data.
 
+**3D acceleration visual**
+![3d-acceleration](lab3_acceleration_3d.png)
+
+**Acceleration visual**
+![acceleration](lab3_y_accerleration_vis.png)
+
 **🖼️ Lab 4: Image Classification**
 
 Applied machine learning techniques to classify images.
@@ -30,17 +36,10 @@ Implemented object detection using the pre-trained VGG16 deep learning model.
 
 Processed and visualized object detection results on edge-collected imagery.
 
-**📂 Repository Contents**
+**Object Detection**
+![object-detection](lab6-detectiontest.png)
 
-lab3/ - Sensor data collection and visualization scripts.
-
-lab4/ - Image classification models and datasets.
-
-lab5/ - EXIF data extraction and feature visualization scripts.
-
-lab6/ - Object detection using VGG16.
-
-README.md - Project documentation (this file).
+![object-detection](lab6-detectiontest-2.png)
 
 🏅 Acknowledgments
 
